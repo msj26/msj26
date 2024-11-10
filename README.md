@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various interesting projects.<br>👯 I’m looking to collaborate on backend development.<br>🤝 I’m looking for help with UI software development<br>🌱 I’m currently improving my skills in DSA and problem solving.<br>💬 Ask me about the "Exam Result Analyzer" app I made.<br>⚡ Fun fact: I started programming with qbasic at 11 years old!
+🔭 I’m currently working on a Real-time Art Collaborator Web Application.<br>👯 I’m looking to collaborate on backend development.<br>🤝 I’m looking for help with UI software development<br>🌱 I’m currently improving my skills in DSA and problem solving.<br>💬 Ask me about the "Exam Result Analyzer" app I made.<br>⚡ Fun fact: I started programming with qbasic at 11 years old!
 
 
 ## 🌐 Socials:
